@@ -9,37 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PortafolioNET
 build_property.RootNamespace = PortafolioNET
-build_property.ProjectDir = E:\Programacion\PortafolioNET\PortafolioNET\
+build_property.ProjectDir = C:\Users\GeoVictoria\Desktop\WORK\Programacion\PortafolioNet\PortafolioNET\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Programacion\PortafolioNET\PortafolioNET
+build_property.MSBuildProjectDirectory = C:\Users\GeoVictoria\Desktop\WORK\Programacion\PortafolioNet\PortafolioNET
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Programacion/PortafolioNET/PortafolioNET/Views/Home/Index.cshtml]
+[C:/Users/GeoVictoria/Desktop/WORK/Programacion/PortafolioNet/PortafolioNET/Views/Home/Contacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GeoVictoria/Desktop/WORK/Programacion/PortafolioNet/PortafolioNET/Views/Home/Gracias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHcmFjaWFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GeoVictoria/Desktop/WORK/Programacion/PortafolioNet/PortafolioNET/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Programacion/PortafolioNET/PortafolioNET/Views/Home/Privacy.cshtml]
+[C:/Users/GeoVictoria/Desktop/WORK/Programacion/PortafolioNet/PortafolioNET/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Programacion/PortafolioNET/PortafolioNET/Views/Shared/Error.cshtml]
+[C:/Users/GeoVictoria/Desktop/WORK/Programacion/PortafolioNet/PortafolioNET/Views/Home/Proyectos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm95ZWN0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GeoVictoria/Desktop/WORK/Programacion/PortafolioNet/PortafolioNET/Views/Home/_ListadoDeProyectos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfTGlzdGFkb0RlUHJveWVjdG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GeoVictoria/Desktop/WORK/Programacion/PortafolioNet/PortafolioNET/Views/Home/_Present.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfUHJlc2VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GeoVictoria/Desktop/WORK/Programacion/PortafolioNet/PortafolioNET/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Programacion/PortafolioNET/PortafolioNET/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/GeoVictoria/Desktop/WORK/Programacion/PortafolioNet/PortafolioNET/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Programacion/PortafolioNET/PortafolioNET/Views/_ViewImports.cshtml]
+[C:/Users/GeoVictoria/Desktop/WORK/Programacion/PortafolioNet/PortafolioNET/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Programacion/PortafolioNET/PortafolioNET/Views/_ViewStart.cshtml]
+[C:/Users/GeoVictoria/Desktop/WORK/Programacion/PortafolioNet/PortafolioNET/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Programacion/PortafolioNET/PortafolioNET/Views/Shared/_Layout.cshtml]
+[C:/Users/GeoVictoria/Desktop/WORK/Programacion/PortafolioNet/PortafolioNET/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uuqsx5q75t

@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Proyecto>
+@{
+}
+@if (Model is not null)
+{
+    foreach (var proyect in Model)
+    {
+        <ul>
+            <li>@proyect.Titulo</li>
+            <li>@proyect.Descripcion</li>
+            <li>@proyect.ImagenURL</li>
+            <li>@proyect.Link</li>
+        </ul>
+    }
+}
